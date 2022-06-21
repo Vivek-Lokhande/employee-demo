@@ -1,0 +1,35 @@
+{
+  "employees": [
+    {
+      "firstname": "Vivek",
+      "lastname": "Lokhande",
+      "gender": "Male",
+      "dob": "2022-06-23",
+      "role": "Manager",
+      "skill": "Node JS",
+      "about": "cscc",
+      "id": 1
+    },
+    {
+      "firstname": "Vijay",
+      "lastname": "Kerure",
+      "gender": "Male",
+      "dob": "2022-06-04",
+      "role": "Developer",
+      "skill": "Node JS",
+      "about": "Developer",
+      "id": 2,
+      "": "Vijay"
+    },
+    {
+      "firstname": "Vivek",
+      "lastname": "asdf",
+      "gender": "Male",
+      "dob": "2022-06-08",
+      "role": "Manager",
+      "skill": "Node JS",
+      "about": "dfcsf",
+      "id": 3
+    }
+  ]
+}
